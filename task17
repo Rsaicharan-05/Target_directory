@@ -1,0 +1,4 @@
+crontab -e
+0 0 * * * /home/student/backup.sh
+crontab -l
+
